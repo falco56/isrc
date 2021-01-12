@@ -8,8 +8,8 @@
             "email": "pierre.henry@ecole-air.fr"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
-        "monolog/monolog": "2.x-dev"
+        "monolog/monolog": "^2.2"
     }
 }
